@@ -1,0 +1,19 @@
+/* Global styling */
+
+
+
+
+/* For mobile phones */
+@media only screen and (max-width: 770px) {
+
+}
+
+/* Styling for laptops */
+@media only screen and (min-width: 770px) and (max-width:1600px) {
+
+}
+
+/* Styling for desktops */
+@media only screen and (min-width:1601px) {
+    
+}
